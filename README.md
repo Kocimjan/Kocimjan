@@ -51,12 +51,12 @@
 ###
 
 <br clear="both">
+###
 
-<img src="https://raw.githubusercontent.com/Kocimjan/Kocimjan/output/snake.svg" alt="Snake animation" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kocimjan/Kocimjan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kocimjan/Kocimjan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kocimjan/Kocimjan/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <a href="https://open.spotify.com/user/31lh2jstfxr5bizoh3bqtk4vv32q">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lh2jstfxr5bizoh3bqtk4vv32q&count=4" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
